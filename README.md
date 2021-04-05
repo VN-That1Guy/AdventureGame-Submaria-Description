@@ -1,4 +1,4 @@
-# :ocean: Submarina: An Underwater Exploration Adventure Game! :ocean: 
+# :ocean: Submaria: An Underwater Exploration Adventure Game! :ocean: 
 A description repo about my personal Adventure Game Project for Introduction to Programming!
 
 ## Game Overview
